@@ -33,4 +33,4 @@
 Clone repository:
 
 ```bash
-git clone https://github.com/NhungNguyen1408/StudyRoomBooking.git
+git clone https://github.com/TranThaoNguyen13/StudyRoomBooking.git
